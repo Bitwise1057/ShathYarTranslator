@@ -1,5 +1,5 @@
 # Shath'yar Translation / Encoding Addon 
-# (WIP - Not Ready For Deployment.)
+## (WIP - Not Ready For Deployment.)
 
 A lightweight but verbose RP addon for Shath'yar translation and encoding, written in Lua for World of Warcraft.
 
