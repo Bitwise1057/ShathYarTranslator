@@ -2,6 +2,8 @@
 
 A lightweight but verbose RP addon for Shath'yar translation and encoding, written in Lua for World of Warcraft.
 
+While this addon is designed to "translate" your messages into Shath'yar, it will not translate the existing language in the game nor will it translate what is said by other language addons.
+
 ---
 
 ## Installation
@@ -15,6 +17,8 @@ A lightweight but verbose RP addon for Shath'yar translation and encoding, writt
 ## Usage
 
 This addon provides multiple slash commands to facilitate Shath'yar roleplay communication. All slash commands work similarly and are straightforward to use.
+
+If targeting a player then your translated speech will be whispered to your target for translation.
 
 ### Available Slash Commands
 
