@@ -161,6 +161,17 @@ local function makeSlashHandler(chatType)
     end
 end
 
+local function PrintHelp()
+    print("|cFF9932CCShath'yar Translator Commands:|r")
+    print("|cFF9932CC/shsay <message>|r - Speak in Shath'yar in /say")
+    print("|cFF9932CC/shyell <message>|r - Speak in Shath'yar in /yell")
+    print("|cFF9932CC/shparty <message>|r - Speak in Shath'yar in /party")
+    print("|cFF9932CC/shraid <message>|r - Speak in Shath'yar in /raid")
+    print("|cFF9932CC/shemote <message>|r - Send an emote translated to Shath'yar")
+    print("|cFF9932CC/shhelp|r - Show this help menu")
+end
+
+SLASH_SHHELP1 = "/shhelp" SlashCmdList["SHHELP"] = PrintHelp
 SLASH_SHSAY1   = "/shsay"   SlashCmdList["SHSAY"]   = makeSlashHandler("SAY")
 SLASH_SHYELL1  = "/shyell"  SlashCmdList["SHYELL"]  = makeSlashHandler("YELL")
 SLASH_SHPARTY1 = "/shparty" SlashCmdList["SHPARTY"] = makeSlashHandler("PARTY")
