@@ -1,5 +1,3 @@
-### (WIP - Not Ready For Deployment.)
-
 # Shath'yar Translation / Encoding Addon 
 
 A lightweight but verbose RP addon for Shath'yar translation and encoding, written in Lua for World of Warcraft.
@@ -10,9 +8,8 @@ While this addon is designed to "translate" your messages into Shath'yar, it wil
 
 ## Installation
 
-1. Download or clone this repository.  
-2. Copy the entire addon folder into your World of Warcraft AddOns directory.  
-   Typically found at: World of Warcraft_retail_\Interface\AddOns\
+1. Download the available release and extract it where you like.
+2. Copy the entire addon folder into your World of Warcraft AddOns directory.
    
 ---
 
@@ -29,6 +26,7 @@ If targeting a player then your translated speech will be whispered to your targ
 - `/shparty` — Sends a Shath'yar encoded message to your party  
 - `/shraid` — Sends a Shath'yar encoded message to your raid  
 - `/shemote` — Sends a Shath'yar encoded emote
+- `/shhelp` — Sends a list of available commands
 
 ### Example
 
