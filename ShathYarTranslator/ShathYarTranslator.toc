@@ -1,8 +1,8 @@
-## Interface: 110107, 110200
+## Interface: 120000
 ## Title: Whispers of Shath'yar
-## Notes: Speak and translate the ancient tongue.
-## Author: Bitwise1057
-## Version: 0.1.0
+## Notes: Encodes your messages in Shath'yar style obfuscation.
+## Author: Bitwise1057 / VfX
+## Version: 1.0.0.2
 
 core.lua
 dictionary.lua
