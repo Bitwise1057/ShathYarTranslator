@@ -9,7 +9,9 @@ While this addon is designed to "translate" your messages into Shath'yar, it wil
 ## Installation
 
 1. Download the available release and extract it where you like.
-2. Copy the entire addon folder into your World of Warcraft AddOns directory.
+2. Copy the file named "Whispers of Shath'yar" into your world of Warcraft installation's addon folder.
+3. Verify proper installation by opening the in-game Addons menu and identifying it in the list.
+4. Enjoy!
    
 ---
 
